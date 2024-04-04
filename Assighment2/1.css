@@ -1,0 +1,27 @@
+.main 
+{
+    width: 500px;
+    padding: 20px;
+    margin: 20px auto;
+
+
+}
+.assign-1-shape-1{
+    background-color: blueviolet;
+    
+}
+.assign-1-shape-2
+{
+   
+   
+    background-color: blueviolet;
+    opacity: 50%;
+
+}
+
+.assign-1-shape-3
+{
+    
+    background-color: rgba(137, 43, 226, 0.104);
+
+}

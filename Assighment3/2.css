@@ -1,0 +1,20 @@
+div
+{
+width: 400px;
+background-color: #EEE;
+padding: 20px;
+margin: 20px auto;
+outline: 10px solid #EEE;
+}
+.shape1
+{
+    border-left: 5px red solid;
+}
+.shape2
+{
+    visibility: hidden;
+}
+.shape3
+{
+    border-left: 5px green solid;
+}
