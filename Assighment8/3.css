@@ -1,0 +1,27 @@
+.parent
+{
+    background-color: #eee;
+    padding: 20px ;
+    margin-top: 20px;
+    list-style: none;
+}
+ .html li ,
+ .css li ,
+ .java li
+ {
+    background-color: white;
+    color: black;
+    padding: 5px;
+ }
+ .html
+ {
+    list-style-type: decimal;
+    list-style-position: outside;
+    margin-bottom: 10px;
+ }
+ .css
+ {
+    list-style-type: upper-roman;
+    list-style-position: outside;
+    margin-bottom: 10px;
+ }

@@ -1,0 +1,45 @@
+.parent
+{
+    width: 400px;
+    margin:  20px auto;
+    position: relative;
+    background-color: #eee;
+    border-top: 5px red solid ;
+    border-right: 5px blue solid ;
+    border-bottom: 5px red solid ;
+    border-left: 5px blue solid ;
+    padding: 5px ;
+}
+span
+{
+    background-color: blue;
+    text-align: center;
+    color: white;
+    padding: 5px ;
+    position: absolute;
+}
+.top-left
+{
+  
+    left: -3%;
+    top: -15%;
+    border-right: 2px red solid;
+}
+.top-right
+{
+   
+    right: -3%;
+    top: -15%;
+    border-left: 2px red solid;
+}
+.bottom-right
+{
+    right:-3% ;
+    bottom: -15%;
+
+}
+.bottom-left
+{
+    left:-3% ;
+    bottom: -15%;
+}

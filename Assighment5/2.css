@@ -1,0 +1,37 @@
+p
+{
+    font-size: 100px;
+    color: black;
+
+}
+.one
+{
+text-transform: capitalize;
+}
+.two 
+{
+    text-transform: uppercase;
+}
+.three
+{
+    text-transform: lowercase;
+}
+div
+{
+    width: 400px;
+    text-overflow: ellipsis;
+}
+a{
+    display: block;
+    width: fit-content;
+    background-color: green;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    margin:auto; 
+    background-color:darkcyan;
+    border-bottom:15px solid darkslategray;
+    text-transform: uppercase;
+    
+    
+}
